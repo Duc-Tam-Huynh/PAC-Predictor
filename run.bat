@@ -1,0 +1,1 @@
+.\env\Scripts\active & python main.py

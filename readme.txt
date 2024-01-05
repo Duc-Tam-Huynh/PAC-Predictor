@@ -1,0 +1,1 @@
+pyarmor obfuscate main.py
